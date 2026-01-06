@@ -1,4 +1,4 @@
-# global-water-velocity-analysis
+# Global-Water-Velocity-Analysis
 
 - Global Water Access: 20-Year Velocity & Trend Analysis (2000-2020)
 
